@@ -1,1 +1,1 @@
-﻿# airport managalement system with  a  client side website
+﻿# Airport management system with  a  client side website
